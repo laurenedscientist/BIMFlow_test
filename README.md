@@ -85,7 +85,7 @@ To get a local copy up and running follow these simple example steps.
 
 ```
 - Fork the repository
-- git clone https://github.com/your_username/BIMFlow
+- git clone https://github.com/your_username/BIMFlow_test
 - git checkout develop
 - git checkout -b branch name
 - git remote add upstream https://github.com/symonkipkemei/Djenga
