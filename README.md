@@ -3,7 +3,6 @@
 - [Introduction](#intro)
 - [Technologies](#tech)
 - [project Setup](#projo)
-- [Illustrations](#illus)
 - [Project Information](#info)
 - [Acknowledgments](#know)
 
