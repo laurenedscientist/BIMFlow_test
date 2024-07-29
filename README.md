@@ -3,17 +3,15 @@
 - [Introduction](#intro)
 - [Technologies](#tech)
 - [project Setup](#projo)
-- [Illustrations](#illus)
 - [Project Information](#info)
-- [Contributing](#contri)
 - [Acknowledgments](#know)
 
 <INTRODUCTION>
 
-<h1 id="intro">Djenga</h1>
+<h1 id="intro">BIMFlow</h1>
 
 
-**Why Djenga?**
+**Why BIMFlow?**
 
 Abstract realtime building materials from BIM Models
 
@@ -62,7 +60,6 @@ To get this project up and running locally, follow the procedure/instructions be
 - in progress
 
 
-
 <PROJECT-INFORMATION>
 
 <h1 id="info">Project Information</h1>
@@ -81,7 +78,6 @@ Contributions, issues and feature requests are always welcome!
 
 I love meeting other developers, interacting and sharing.
 
-Feel free to check the [issues page](https://github.com/symonkipkemei/Djenga/issues).
 
 **How to Contribute**
 
@@ -89,7 +85,7 @@ To get a local copy up and running follow these simple example steps.
 
 ```
 - Fork the repository
-- git clone https://github.com/your_username/Djenga
+- git clone https://github.com/your_username/BIMFlow_test
 - git checkout develop
 - git checkout -b branch name
 - git remote add upstream https://github.com/symonkipkemei/Djenga
@@ -97,28 +93,6 @@ To get a local copy up and running follow these simple example steps.
 - git commit -m "commit message"
 - git push -u origin HEAD
 ```
-
-
-<ACKNOWLEDGMENTS>
-
-<h1 id="know">Acknowledgements</h1>
-
-## Author
-
-👤 **Symon Kipkemei**
-
-- Github: [symonkipkemei](https://github.com/symonkipkemei)
-- Twitter: [@symon_kipkemei](https://twitter.com/symon_kipkemei)
-- LinkedIn: [Symon kipkemei](https://www.linkedin.com/in/symon-kipkemei/)
-
-
-## Show your support
-
-
-I can't promise to solve all your problems but I promise you won't have 
-to face them alone 😊.
-
-Finally, if you've read this far, don't forget to give this repo a ⭐️. 
 
 
 ## Acknowledgments
