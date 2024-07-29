@@ -3,9 +3,6 @@
 ## Project Overview
 Extracting material information from BIM models in real-time.
 
-## Project URL
-[https://github.com/symonkipkemei/Djenga.git](https://github.com/symonkipkemei/Djenga.git)
-
 ## Business and Market Demands
 Architects, builders, designers, and quantity surveyors need immediate access to material information for their structures to better manage design and financial outcomes.
 
@@ -69,3 +66,4 @@ Architects, builders, designers, and quantity surveyors need immediate access to
   - **Element Type**: User specifies the type of element, such as a concrete floor slab.
   - **Element Breakdown**: Generates a list of all required materials, including their quantities and units, e.g., cement, cement volume, number of cement bags.
   - **Element Export**: Export to PDF or Excel for quoting, pricing, and sharing; save the list to Excel using Panda.
+
