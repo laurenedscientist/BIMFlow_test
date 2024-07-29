@@ -8,10 +8,10 @@
 
 <INTRODUCTION>
 
-<h1 id="intro">Djenga</h1>
+<h1 id="intro">BIMFlow</h1>
 
 
-**Why Djenga?**
+**Why BIMFlow?**
 
 Abstract realtime building materials from BIM Models
 
@@ -60,7 +60,6 @@ To get this project up and running locally, follow the procedure/instructions be
 - in progress
 
 
-
 <PROJECT-INFORMATION>
 
 <h1 id="info">Project Information</h1>
@@ -86,7 +85,7 @@ To get a local copy up and running follow these simple example steps.
 
 ```
 - Fork the repository
-- git clone https://github.com/your_username/Djenga
+- git clone https://github.com/your_username/BIMFlow
 - git checkout develop
 - git checkout -b branch name
 - git remote add upstream https://github.com/symonkipkemei/Djenga
