@@ -13,7 +13,10 @@
 
 **Why BIMFlow?**
 
-Abstract realtime building materials from BIM Models
+** Abstract realtime building materials from BIM Models**
+
+**BIMFlow enhances sustainability by optimising the use of building materials through real-time analysis of BIM models.** This reduces waste, improves energy efficiency, supports a circular economy, and aids in meeting environmental certification standards. Consequently, it contributes to the construction of more eco-friendly and less environmentally impactful buildings.
+
 
 **usage**
 
